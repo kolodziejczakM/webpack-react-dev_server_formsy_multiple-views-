@@ -20153,7 +20153,7 @@
 	        _react2.default.createElement(
 	          'span',
 	          null,
-	          'Hungry? ziomuś? Zaaaloguj!s Login!'
+	          ' Login, now!'
 	        ),
 	        _react2.default.createElement(Login_form, null)
 	      );

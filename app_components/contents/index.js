@@ -85,7 +85,7 @@ class Index extends React.Component {
         return(
         <div>
         <Register_form/>
-        <span>Hungry? Login!</span>    
+        <span> Login, now!</span>    
         <Login_form/>
         </div>
         ) 
